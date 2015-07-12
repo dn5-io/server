@@ -1,0 +1,12 @@
+{
+  "name": "dn5-server",
+  "private": true,
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**.test.js test/*/**.test.js --reporter spec"
+  },
+  "author": "Nicolas Herment <nherment@gmail.com>",
+  "license": "Proprietary"
+}
